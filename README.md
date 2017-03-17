@@ -1,2 +1,2 @@
 # currencyconverter
-Simple currency converter. Using React, Redux, Mocha and Chai.
+Simple currency converter. Using React and Redux.
